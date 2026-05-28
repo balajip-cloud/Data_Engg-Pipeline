@@ -1,0 +1,4 @@
+op,flight_date,airline,flight_number,origin_airport,destination_airport,scheduled_departure,actual_departure,departure_delay,scheduled_arrival,actual_arrival,arrival_delay,distance,cancelled,diverted,aircraft_type,last_updated_ts
+I,21-05-2026,BA,301,LHR,DXB,08:00,08:10,10,18:00,18:20,20,5500,0,0,AirbusA350,28-12-2025 18:30
+U,21-05-2026,BA,117,LHR,JFK,10:30,10:50,20,13:30,13:55,25,5540,0,0,Boeing777,29-12-2025 14:05
+D,21-05-2026,BA,215,LHR,BOS,09:00,09:00,0,11:45,11:45,0,5230,0,0,Boeing787,30-12-2025 12:00

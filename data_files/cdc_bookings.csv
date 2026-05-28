@@ -1,0 +1,5 @@
+op,booking_id,passenger_id,flight_number,booking_date,travel_date,ticket_price,seat_class,payment_status,booking_channel
+U,B001,P1001,117,23-05-2026,01-06-2026,950,Economy,Completed,Website
+D,B002,P1002,117,23-05-2026,02-06-2026,2200,Business,Completed,MobileApp
+U,B003,P1003,215,23-05-2026,03-06-2026,1900,Economy,Completed,TravelAgent
+I,B004,P1004,216,23-05-2026,04-06-2026,625,Economy,Completed,TravelAgent

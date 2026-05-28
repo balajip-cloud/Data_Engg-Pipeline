@@ -1,0 +1,5 @@
+op,flight_date,airline,flight_number,origin_airport,destination_airport,scheduled_departure,actual_departure,departure_delay,scheduled_arrival,actual_arrival,arrival_delay,distance,cancelled,diverted,aircraft_type,
+U,01-01-2026,BA,117,BOS,JFK,10:30,10:45,15,13:30,13:50,20,5540,0,0,Boeing777,
+D,01-01-2026,BA,215,LHR,BOS,09:00,09:05,5,11:45,11:55,10,5230,0,0,Boeing787,
+U,01-01-2026,BA,139,BOS,DEL,14:00,14:20,20,02:00,02:25,25,6700,0,0,Boeing777,
+I,01-01-2026,BA,111,AJJ,MAS,16:00,16:20,20,02:00,02:25,25,80,0,0,Boeing777,

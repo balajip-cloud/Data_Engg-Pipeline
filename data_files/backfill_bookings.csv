@@ -1,0 +1,4 @@
+op,booking_id,passenger_id,flight_number,booking_date,travel_date,ticket_price,seat_class,payment_status,booking_channel,last_updated_ts
+I,B101,P2001,301,21-05-2026,03-06-2026,1200,Economy,Completed,Website,28-12-2025 10:00
+U,B002,P1002,117,21-05-2026,03-06-2026,2400,Business,Completed,MobileApp,29-12-2025 11:30
+D,B003,P1003,215,21-05-2026,03-06-2026,900,Economy,Refunded,TravelAgent,30-12-2025 15:15
